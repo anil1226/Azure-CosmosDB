@@ -1,0 +1,80 @@
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.exe
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.deps.json
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.runtimeconfig.json
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\ref\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.pdb
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Azure.Core.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.AssemblyReference.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.AssemblyInfoInputs.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.AssemblyInfo.cs
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.CoreCompileInputs.cache
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.CopyComplete
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\ref\CosmosDB.dll
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.pdb
+C:\tmp\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.genruntimeconfig.cache
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.exe
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.deps.json
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.runtimeconfig.json
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\CosmosDB.pdb
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.AssemblyReference.cache
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.AssemblyInfoInputs.cache
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.AssemblyInfo.cs
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.CoreCompileInputs.cache
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.csproj.CopyComplete
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\refint\CosmosDB.dll
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.pdb
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\CosmosDB.genruntimeconfig.cache
+C:\Users\anilc\OneDrive\Desktop\AZ-204\Resources - Cosmos\Lab - .NET - Deleting items\CosmosDB\CosmosDB\obj\Debug\net6.0\ref\CosmosDB.dll

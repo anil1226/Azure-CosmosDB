@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee8fe81f-2624-47f9-a268-84057969648d": {
+      "ProjectGuid": "ee8fe81f-2624-47f9-a268-84057969648d",
+      "DisplayName": "CosmosDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
